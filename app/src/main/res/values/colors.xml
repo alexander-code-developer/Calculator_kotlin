@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#EB000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#3C3C3C</color> <!-- Color gris para los números -->
+    <color name="pastel_blue">#A32996ED</color> <!-- Color azul para los operadores -->
+    <color name="blue">#68B2CD</color> <!-- Color azul pastel para el botón de igual -->
+    <color name="pastel_green">#85701AAC</color> <!-- Color verde pastel para el botón CE -->
+    <color name="gris_texto"></color>
+
+</resources>
